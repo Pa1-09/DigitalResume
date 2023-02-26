@@ -1,0 +1,8 @@
+Programming Languages : Python, Core Java
+Data Visualization: Pandas, Plotly
+Web Framework: Django
+Web Technologies: HTML, CSS
+Databases: Postgresql
+CI-CD : Jenkins
+VCS: GIT
+Other key skills: Basic Unix commands, Functional testing, Manual Testing
