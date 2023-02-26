@@ -54,6 +54,7 @@ SOCIAL_MEDIA_LINKS = {
 # to be decided and added later on
 PROJECTS = {
     # Project name : Description
+    "Digital_Resume" : "https://pa1-09-digitalresume-digital-resume-43rkuj.streamlit.app/",
     "Weather_Predictor" : "https://github.com/Pa1-09/Weather_Forecast_Project",
     "Order_Service": "https://github.com/Pa1-09/ServiceAppNag"
 
