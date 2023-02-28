@@ -3,6 +3,9 @@ Data Visualization: Pandas, Plotly
 Web Framework: Django
 Web Technologies: HTML, CSS
 Databases: Postgresql
-CI-CD : Jenkins
-VCS: GIT
+Deployment Tools: Python Anywhere, AWS
+IDE: Pycharm, vscode, Notebooks
+VCS: GIT/Github
+Other Tools: HPQC ALM, Putty, Wireshark, Jenkins and WinSCP
 Other key skills: Basic Unix commands, Functional testing, Manual Testing
+

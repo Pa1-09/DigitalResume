@@ -1,6 +1,11 @@
-Individual with 7+ years of  overall experience in IT industry with varied roles and operations.
-Analytical, motivated and hard-working Python developer with over 3+ years of experience developing, debugging and troubleshooting end-end applications.
-Hands-on-experience in Django Development for 2.1 years.
-Strong hands on experience in performing manual and automation test execution.
-Excellent team player and displaying strong sense of initiative on tasks in hand.
-Adequate understanding on Transportation/Railroad Domain.
+Optimistic and passionate individual with 7+ Years of IT Experience in developing and testing python applications.
+Analytical, motivated Python developer with over 3+ years of experience developing, debugging and troubleshooting end-end applications.
+Hands-on-experience in Django Development and postgresql for 2.1 years.
+Had basic knowledge on AWS services like EC2, S3 .
+Had experience working with Agile methodologies.
+Excellent team player and displaying a strong sense of initiative on tasks in hand.
+Strong ability to work individually and with a team in a challenging environment.
+Adept at identifying issues with product design through subjective assessment and comprehensive analysis.
+Had around 4.2 Years of experience testing applications pertaining to the Railroad domain.
+Experience in various stages in software testing life cycle and performed Functional, Integration, Regression, System, Smoke testing.
+Well versed in performing creating Test Plan, Requirement Traceability Matrices, Test scenarios, Creation and Execution of Test Cases.

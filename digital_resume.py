@@ -14,7 +14,7 @@ else:
 css_file = Path(current_dir, "styles", "main.css")
 
 # Resume to be modified
-resume_file = Path(current_dir, "assets", "Pavan_Python_Django_PTC_Latest_2822023.docx - Google Docs.pdf")
+resume_file = Path(current_dir, "assets", "Pavan_Python_Django.pdf")
 profile_pic = Path(current_dir, "assets", "profile-picsmall2.png")
 
 
@@ -180,7 +180,7 @@ st.write(projects['project1_techstack'])
 
 
 # Projects and Acoomplishments
-st.subheader("Projects and Accomplishments")
+st.subheader("Other Projects")
 # Displaying social media links
 all_project_links = st.columns(len(PROJECTS))
 for index, (project_name, project_link) in enumerate(PROJECTS.items()):
