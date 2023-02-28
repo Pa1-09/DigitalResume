@@ -1,14 +1,19 @@
 projects={
 "project4_description" : '''
-Alaska’s employee management system and appraisal system is a migration project and was implemented using Django giving a modern look and rich experience for their employees.
+Union Pacific’s internal employee management system(for crews running the train) and appraisal system is
+the system which tracks all the employee’s work hours(and leaves) and provides incen
+
 ''' ,
 "project4_contribution" : """
-Developed backend modules using Python on Django Framework .
-Had exposure in creating templates and enabling login and logout functionality as well.
-Created important business rules that are helpful for the customers.
-Actively involved in working with CRUD operations.
+Developed backend modules using Python/ Django Framework .
+Had great understanding on creating templates, views, urls and 
+Worked extensively on Search, Login and Logout functionality.
+Slight exposure working with Django crispy forms.
+Actively involved in working with CRUD operations
+Created important business rules that are helpful for the customers..
 Identify and fix bottlenecks that may arise from inefficient code.
 Identify and fix software bugs.
+
 """,
 "project4_techstack":
 "Python, Django, Postgresql, PythonAnywhere, Git, Jenkins",
@@ -43,7 +48,7 @@ I-ETMS (Interoperable Electronic Train Management System) is one of the PTC type
 Rigorously worked in testing the systems at Segment, LINN and LIEE.
 Very much involved in MDM testing in the lab and shared the results with the clients.
 Has become expert in UP BOS execution, stabilized its environment and played a pivotal role in evolving the quality of the product and guided the team during their execution.
-Provided environment support for the team and ensured smooth execution for them
+Provided environment support for the team and ensured smooth execution for them.
 
 
 """,
