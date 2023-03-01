@@ -47,7 +47,7 @@ SOCIAL_MEDIA_LINKS = {
     "GitHub" : "https://github.com/Pa1-09/",
 
     # link to be modified
-    "Linkedin" : "https://in.linkedin.com/"
+    "Linkedin" : "https://www.linkedin.com/in/pavan-kumar-a-073867148/"
 
 }
 
